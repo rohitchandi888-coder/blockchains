@@ -1,0 +1,13 @@
+{
+  "name": "MFDA Token List",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x79c80fd803879d69180dBb0136f2814757e46378",
+      "symbol": "MFDA",
+      "name": "MiniFutureDigiAssets ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/rohitchandi888-coder/blockchains-smartchain-assets-0x79c80fd803879d69180ddb0136f2814757e46378/main/assets/0xdbfb9e215ba9c31d87f4e0a6673f57072acf45ff/logo.png"
+    }
+  ]
+}
